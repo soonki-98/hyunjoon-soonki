@@ -12,4 +12,4 @@ def solution(numbers):
     #중복된 수 삭제
     print(list(set(a)))
     a = list(set(a))
-    return a
+    return a    
